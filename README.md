@@ -1,6 +1,6 @@
 ## About
 
-Tissol Downloader was built to make it easier to manage the documents on the course pages. It zips all the PDF files on the page and downloads it. Additionally it also downloads a csv file which has the number of pages in each PDF file. The motive was to allow students to get an overview of the course workload without having to go through the task of viewing each PDF separately. More features are on the way  
+Tissol Downloader was built to make it easier to manage documents on the course pages. It zips all the PDF files on the page and downloads it. Additionally it also downloads a csv file which has the number of pages in each PDF file. The motive was to allow students to get an overview of the course workload without having to go through the task of viewing each PDF separately. More features are on the way  
 
 ## Setup
 
